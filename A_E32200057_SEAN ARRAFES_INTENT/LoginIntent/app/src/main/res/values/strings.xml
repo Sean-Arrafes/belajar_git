@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginIntent</string>
+    <string name="username">com.example.activitylogin.username</string>
+    <string name="login">com.example.activitylogin.login</string>
+</resources>
